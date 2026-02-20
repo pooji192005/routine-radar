@@ -33,12 +33,6 @@ This project helps track habits like studying, exercise, and coding using a clea
 
 ---
 
-## 📷 Preview
-
-(Add your screenshot here)
-
----
-
 ## 🎯 Purpose
 
 This project was created to practice Excel basics and build a simple productivity tracker.
